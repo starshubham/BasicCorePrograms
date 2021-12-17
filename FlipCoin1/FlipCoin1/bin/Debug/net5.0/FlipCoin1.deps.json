@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FlipCoin1/1.0.0": {
+        "runtime": {
+          "FlipCoin1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlipCoin1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

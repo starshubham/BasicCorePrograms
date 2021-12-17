@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\FlipCoin1.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\FlipCoin1.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\FlipCoin1.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\FlipCoin1.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\FlipCoin1.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\ref\FlipCoin1.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\bin\Debug\net5.0\FlipCoin1.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\ref\FlipCoin1.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\FlipCoin1\FlipCoin1\obj\Debug\net5.0\FlipCoin1.genruntimeconfig.cache

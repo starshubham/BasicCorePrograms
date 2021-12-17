@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42b95a36-d2b6-4027-9ebd-5186795fc55d": {
+      "ProjectGuid": "42b95a36-d2b6-4027-9ebd-5186795fc55d",
+      "DisplayName": "LeapYear2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

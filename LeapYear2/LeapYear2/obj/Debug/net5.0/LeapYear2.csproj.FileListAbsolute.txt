@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\LeapYear2.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\LeapYear2.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\LeapYear2.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\LeapYear2.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\LeapYear2.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\ref\LeapYear2.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\bin\Debug\net5.0\LeapYear2.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\ref\LeapYear2.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\LeapYear2\LeapYear2\obj\Debug\net5.0\LeapYear2.genruntimeconfig.cache
