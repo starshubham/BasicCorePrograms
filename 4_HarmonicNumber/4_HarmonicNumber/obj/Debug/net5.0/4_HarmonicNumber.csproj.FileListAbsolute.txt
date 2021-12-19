@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\4_HarmonicNumber.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\4_HarmonicNumber.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\4_HarmonicNumber.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\4_HarmonicNumber.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\4_HarmonicNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\ref\4_HarmonicNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\bin\Debug\net5.0\4_HarmonicNumber.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\ref\4_HarmonicNumber.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\4_HarmonicNumber\4_HarmonicNumber\obj\Debug\net5.0\4_HarmonicNumber.genruntimeconfig.cache

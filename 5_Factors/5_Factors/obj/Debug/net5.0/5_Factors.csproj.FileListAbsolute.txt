@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\5_Factors.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\5_Factors.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\5_Factors.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\5_Factors.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\5_Factors.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\ref\5_Factors.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\bin\Debug\net5.0\5_Factors.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\ref\5_Factors.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\5_Factors\5_Factors\obj\Debug\net5.0\5_Factors.genruntimeconfig.cache

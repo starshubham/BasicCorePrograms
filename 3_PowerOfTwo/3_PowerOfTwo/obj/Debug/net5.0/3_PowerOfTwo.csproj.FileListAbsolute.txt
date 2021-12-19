@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\3_PowerOfTwo.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\3_PowerOfTwo.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\3_PowerOfTwo.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\3_PowerOfTwo.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\3_PowerOfTwo.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\ref\3_PowerOfTwo.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\bin\Debug\net5.0\3_PowerOfTwo.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\ref\3_PowerOfTwo.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\3_PowerOfTwo\3_PowerOfTwo\obj\Debug\net5.0\3_PowerOfTwo.genruntimeconfig.cache

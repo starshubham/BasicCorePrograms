@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\8_CheckEvenOrOdd.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\8_CheckEvenOrOdd.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\8_CheckEvenOrOdd.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\8_CheckEvenOrOdd.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\8_CheckEvenOrOdd.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\ref\8_CheckEvenOrOdd.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\bin\Debug\net5.0\8_CheckEvenOrOdd.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\ref\8_CheckEvenOrOdd.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\8_CheckEvenOrOdd\8_CheckEvenOrOdd\obj\Debug\net5.0\8_CheckEvenOrOdd.genruntimeconfig.cache

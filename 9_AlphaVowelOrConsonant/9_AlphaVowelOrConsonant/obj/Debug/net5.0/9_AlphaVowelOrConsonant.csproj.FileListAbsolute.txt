@@ -1,0 +1,15 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\9_AlphaVowelOrConsonant.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\9_AlphaVowelOrConsonant.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\9_AlphaVowelOrConsonant.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\9_AlphaVowelOrConsonant.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\9_AlphaVowelOrConsonant.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\ref\9_AlphaVowelOrConsonant.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\bin\Debug\net5.0\9_AlphaVowelOrConsonant.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\ref\9_AlphaVowelOrConsonant.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\9_AlphaVowelOrConsonant\9_AlphaVowelOrConsonant\obj\Debug\net5.0\9_AlphaVowelOrConsonant.genruntimeconfig.cache

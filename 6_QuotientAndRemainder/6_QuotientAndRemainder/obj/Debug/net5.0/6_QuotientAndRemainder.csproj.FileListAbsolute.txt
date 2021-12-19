@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\6_QuotientAndRemainder.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\6_QuotientAndRemainder.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\6_QuotientAndRemainder.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\6_QuotientAndRemainder.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\6_QuotientAndRemainder.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\ref\6_QuotientAndRemainder.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\bin\Debug\net5.0\6_QuotientAndRemainder.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\ref\6_QuotientAndRemainder.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\6_QuotientAndRemainder\6_QuotientAndRemainder\obj\Debug\net5.0\6_QuotientAndRemainder.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\10_LargestAmongThree.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\10_LargestAmongThree.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\10_LargestAmongThree.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\10_LargestAmongThree.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\10_LargestAmongThree.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\ref\10_LargestAmongThree.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\bin\Debug\net5.0\10_LargestAmongThree.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\ref\10_LargestAmongThree.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\10_LargestAmongThree\10_LargestAmongThree\obj\Debug\net5.0\10_LargestAmongThree.genruntimeconfig.cache

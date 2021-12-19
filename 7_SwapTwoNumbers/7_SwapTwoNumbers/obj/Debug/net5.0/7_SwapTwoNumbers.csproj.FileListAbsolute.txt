@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\7_SwapTwoNumbers.exe
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\7_SwapTwoNumbers.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\7_SwapTwoNumbers.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\7_SwapTwoNumbers.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\7_SwapTwoNumbers.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\ref\7_SwapTwoNumbers.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\bin\Debug\net5.0\7_SwapTwoNumbers.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\ref\7_SwapTwoNumbers.dll
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.pdb
+C:\Users\My Laptop\Desktop\BrProjects\BasicCorePrograms\7_SwapTwoNumbers\7_SwapTwoNumbers\obj\Debug\net5.0\7_SwapTwoNumbers.genruntimeconfig.cache
